@@ -1,5 +1,5 @@
 {
-    "name": "17funs-php-package/SuperAd-module",
+    "name": "17funs-php-package/super-ad-module",
     "description": "超级广告",
     "type":"laravel-module",
     "license": "MIT",
