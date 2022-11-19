@@ -1,0 +1,24 @@
+{
+    "name": "17funs-php-package/superad-module ",
+    "description": "超级广告",
+    "type":"laravel-module",
+    "authors": [
+        {
+            "name": "zhongjie",
+            "email": "baidushanxi@vip.qq.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\SuperAd\\": ""
+        }
+    }
+}

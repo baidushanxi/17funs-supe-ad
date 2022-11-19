@@ -1,0 +1,13 @@
+{
+    "name": "SuperAd",
+    "alias": "superad",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "\\Modules\\SuperAd\\Providers\\SuperAdServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
