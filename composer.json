@@ -3,6 +3,7 @@
     "description": "超级广告",
     "type":"laravel-module",
     "license": "MIT",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.1.3",
         "nwidart/laravel-modules": "^8.3",
