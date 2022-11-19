@@ -1,5 +1,5 @@
 {
-    "name": "17funs-php-package/superad-module ",
+    "name": "17funs-php-package/superad-module",
     "description": "超级广告",
     "type":"laravel-module",
     "authors": [
